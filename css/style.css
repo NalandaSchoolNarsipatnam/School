@@ -67,10 +67,16 @@ nav a {
   width: 100%;
 }
 .headerTitle {
+  width: 90%;
+    
+    
+}
+.headerTitle1 {
   width: 100%;
-  float: inherit;
-    
-    
+}
+
+.headerTitle2 {
+  width: 100%;
 }
 .dropdown {
     position: relative;
@@ -142,6 +148,12 @@ nav a {
 .about-us div {
   width: 45%;
   float: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+.about-uschanged div {
+  width: 100%;
+  float: inherit;
   line-height: 30px;
   font-size: 18px;
 }
@@ -234,7 +246,7 @@ margin: 0 auto;
 with a fixed width and height */
 .slide {
 float: left;
-height: 510px;
+height: 330px;
 width: 728px;
 }
 
